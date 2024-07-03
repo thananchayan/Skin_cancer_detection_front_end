@@ -1,0 +1,9 @@
+/* styles.css */
+.custom-dropzone .MuiDropzoneArea-text {
+    color: black !important;
+  }
+  
+  .custom-dropzone .MuiDropzoneArea-icon {
+    color: black !important;
+  }
+  
